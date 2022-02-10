@@ -1,4 +1,2 @@
-python == 3.8.5
-requests
-urllib
-pandas
+requests >= 2.27.1
+pandas >= 1.4.0
